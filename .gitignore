@@ -1,2 +1,5 @@
 leedsbutterfly/
 *.zip
+*.pyc
+*.pkl
+.ipynb_checkpoints/
