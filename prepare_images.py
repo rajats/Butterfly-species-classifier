@@ -30,7 +30,7 @@ def prep_image(fn, ext='jpg', IMAGE_MEAN =None):
     # Convert to BGR
     im = im[::-1, :, :]
 
-    if IMAGE_MEAN.any():
+    if IMAGE_MEAN is not None:
         im = im - IMAGE_MEAN
 
     return rawim, floatX(im[np.newaxis])
