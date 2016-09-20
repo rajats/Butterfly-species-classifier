@@ -20,7 +20,19 @@ Clearly network trained with pre-trained weights gave far more better performanc
 
 ![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result1.PNG)  
 
-![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result2.PNG)
+![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result2.PNG)  
 
+# Data  
+Get the Leeds Butterfly Dataset:
+```
+wget http://www.comp.leeds.ac.uk/scs6jwks/dataset/leedsbutterfly/files/leedsbutterfly_dataset_v1.0.zip  
+```  
+and run  
+```
+python divide_dataset_into_classes.py    
+```  
+
+## Acknowledgement  
+[Leeds Butterfly Dataset](http://www.comp.leeds.ac.uk/scs6jwks/dataset/leedsbutterfly/)
 
 
