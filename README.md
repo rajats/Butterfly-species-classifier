@@ -18,9 +18,9 @@ Network was trained with random values of hyperparameters like regularization pa
 # Performance 
 Clearly network trained with pre-trained weights gave far more better performance than method2.  
 
-![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result1.png)  
+![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result1.PNG)  
 
-![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result2.png)
+![alt tag](https://raw.githubusercontent.com/rajats/Butterfly-species-classifier/master/result2.PNG)
 
 
 
